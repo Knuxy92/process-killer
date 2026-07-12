@@ -68,7 +68,10 @@ go build -o process-killer .
 ## Build from Source
 
 ```bash
-# Clone or navigate to the project
+# Clone project
+git clone https://github.com/Knuxy92/process-killer.git
+
+# Cd to project folder
 cd process-killer
 
 # Build
